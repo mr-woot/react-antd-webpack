@@ -39,7 +39,7 @@
     "antd": "^3.15.0",
     "antd-scss-theme-plugin": "^1.0.7",
     "babel-plugin-import": "^1.11.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "less-loader": "^4.1.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.3"
